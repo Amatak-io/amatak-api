@@ -7,7 +7,9 @@
     "dev": "strapi develop",
     "start": "strapi start",
     "build": "strapi build",
-    "amatak": "amatak"
+    "strapi": "strapi",
+    "amatak":"pm2 start yarn --name amatak-api -- start",
+    "amatakapi":"pm2 start yarn --name api -- start"
   },
   "devDependencies": {},
   "dependencies": {
