@@ -7,7 +7,7 @@
     "dev": "strapi develop",
     "start": "strapi start",
     "build": "strapi build",
-    "strapi": "strapi"
+    "amatak": "amatak"
   },
   "devDependencies": {},
   "dependencies": {
@@ -22,7 +22,7 @@
     "styled-components": "5.3.3"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Amatak"
   },
   "strapi": {
     "uuid": "9937ee5d-4a83-4a0e-9308-8fe42a131378"
